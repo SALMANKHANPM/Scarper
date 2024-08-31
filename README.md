@@ -31,7 +31,7 @@ Installation
     pip install selenium beautifulsoup4 requests duckduckgo-search lxml
 
 Download Chromedriver:
-Download Chromedriver from here; https://googlechromelabs.github.io/chrome-for-testing/#stable
+Download Chromedriver from here; [https://googlechromelabs.github.io/chrome-for-testing/#stable](https://googlechromelabs.github.io/chrome-for-testing/)
 Running the Script
 
 Update name variable:
